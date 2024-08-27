@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rei620m&layout=compact)
+
 <!--
 **rei620m/rei620m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
