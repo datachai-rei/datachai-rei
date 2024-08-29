@@ -2,8 +2,8 @@
 ~~I'm a freelance digital marketing specialist~~
 
 ### 🔭 I’m currently working on
+- segmentation model in python
 - gohan-dousuru: bot to generate menu plan and grocery shopping list
-- Customer segmentation models in python
 
 ### 🌱 I’m currently learning
 - R for AB testing
