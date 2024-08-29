@@ -1,13 +1,14 @@
 ## Hi there 👋
 ~~I'm a freelance digital marketing specialist~~
 
-### 🌱 I’m currently learning ...
+### 🔭 I’m currently working on
+- gohan-dousuru: bot to generate menu plan and grocery shopping list
 - Customer segmentation models in python
+
+### 🌱 I’m currently learning
 - R for AB testing
 
-### 📊 Metrics
-※ includes private repositories
-
+### 📊 Metrics ※ incl private repositories
 ![Top Langs](https://github-readme-stats-eight-ashen-88.vercel.app/api/top-langs/?username=rei620m&layout=compact)
 
 <!--
