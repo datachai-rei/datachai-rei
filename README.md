@@ -8,7 +8,7 @@
 ### 🌱 I’m currently learning
 - R for AB testing
 
-### 📊 Metrics ※ incl private repositories
+### 📊 Metrics
 ![Top Langs](https://github-readme-stats-eight-ashen-88.vercel.app/api/top-langs/?username=rei620m&layout=compact)
 
 <!--
