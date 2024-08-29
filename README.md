@@ -1,4 +1,12 @@
 ## Hi there 👋
+~~I'm a freelance digital marketing specialist~~
+
+### 🌱 I’m currently learning ...
+- Customer segmentation models in python
+- R for AB testing
+
+### 📊 Metrics
+※ includes private repositories
 
 ![Top Langs](https://github-readme-stats-eight-ashen-88.vercel.app/api/top-langs/?username=rei620m&layout=compact)
 
