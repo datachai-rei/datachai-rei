@@ -6,7 +6,7 @@
 - gohan-dousuru: bot to generate menu plan and grocery shopping list
 
 ### 🌱 I’m currently learning
-- R for AB testing
+- [A/B testing in R](https://app.datacamp.com/learn/courses/ab-testing-in-r)
 
 ### 📊 Metrics
 ![Top Langs](https://github-readme-stats-eight-ashen-88.vercel.app/api/top-langs/?username=rei620m&layout=compact)
