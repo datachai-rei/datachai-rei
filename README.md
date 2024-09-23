@@ -4,7 +4,7 @@
 ### 🔭 I’m currently working on
 - segmentation model in python
 - email newsletter template in html
-- gohan_dousuru: cooking automation project to generate menu plan and grocery shopping list
+- gohan_dousuru: automate cooking by generating menu plan and grocery shopping list
 
 ### 🌱 I’m currently learning
 - [A/B testing in R](https://app.datacamp.com/learn/courses/ab-testing-in-r)
