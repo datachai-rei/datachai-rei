@@ -6,7 +6,7 @@
 - email newsletter template in html
 
 ### 🌱 I’m currently learning
-- [A/B testing in R](https://app.datacamp.com/learn/courses/ab-testing-in-r)
+-  A/B testing in R
 
 ### 📊 Metrics
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rei620m&layout=compact)
