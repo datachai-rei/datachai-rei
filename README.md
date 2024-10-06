@@ -9,8 +9,9 @@
 -  A/B testing in R
 
 ### 📊 Metrics
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rei620m&layout=compact)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=rei620m&theme=icegray&card_height=170&card_width=495)](https://git.io/streak-stats)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rei620m&layout=compact&theme=graywhite&card_width=495)
 <!--
 **rei620m/rei620m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
