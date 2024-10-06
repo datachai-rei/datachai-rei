@@ -9,7 +9,7 @@
 -  A/B testing in R
 
 ### 📊 Metrics
-[![GitHub Streak](https://streak-stats.demolab.com/?user=rei620m&theme=icegray&card_height=170&card_width=495)](https://git.io/streak-stats)
+![GitHub Streak](https://streak-stats.demolab.com/?user=rei620m&theme=icegray&card_height=170&card_width=495)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rei620m&layout=compact&theme=graywhite&card_width=495)
 <!--
