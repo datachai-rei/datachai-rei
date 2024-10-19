@@ -2,7 +2,7 @@
 ~~I'm a freelance digital marketing specialist~~
 
 ### 🔭 I’m currently working on
-- segmentation model in python
+- time series forecasting in R and python
 - email newsletter template in html
 
 ### 🌱 I’m currently learning
