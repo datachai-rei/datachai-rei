@@ -2,8 +2,8 @@
 ~~I'm a freelance digital marketing specialist~~
 
 ### 🔭 I’m currently working on
-- time series forecasting in R and python
-- email newsletter template in html
+- time series forecasting in fb prophet
+- [100 days of code](https://github.com/rei620m/100daysofcode)
 
 ### 🌱 I’m currently learning
 -  A/B testing in R
