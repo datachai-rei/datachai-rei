@@ -3,7 +3,7 @@
 
 ### 🔭 I’m currently working on
 - time series forecasting in fb prophet
-- [100 days of code](https://github.com/rei620m/100daysofcode)
+- A/B testing in R
 
 ### 📊 Metrics
 ![GitHub Streak](https://streak-stats.demolab.com/?user=rei620m&theme=icegray&card_height=170&card_width=495&border=e4e2e2)
