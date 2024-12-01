@@ -1,10 +1,6 @@
 ## Hi there 👋
 ~~I'm a freelance digital marketing specialist~~
 
-### 🔭 I’m currently working on
-- time series forecasting in fb prophet
-- A/B testing in R
-
 ### 📊 Metrics
 ![GitHub Streak](https://streak-stats.demolab.com/?user=rei620m&theme=icegray&card_height=170&card_width=495&border=e4e2e2)
 
