@@ -13,5 +13,5 @@ I'm a freelance digital marketing specialist
 
 ### 👩🏻‍💻 Recent blog posts
 - [How to Schedule a Python Script on Windows and Mac](https://www.datachai.com/post/how-to-schedule-a-python-script-to-run-automatically)
-- [Forecasting Time Series Data with Facebook Prophet](https://www.datachai.com/post/forecasting-time-series-data-with-facebook-prophet))
+- [Forecasting Time Series Data with Facebook Prophet](https://www.datachai.com/post/forecasting-time-series-data-with-facebook-prophet)
 - [Reflections on the 100 Days of Code Challenge](https://www.datachai.com/post/reflections-on-the-100-days-of-code-challenge)
